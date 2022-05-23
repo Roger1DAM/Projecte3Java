@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cursos","l":"Curs"},{"p":"cursos","l":"CursColectiu"},{"p":"cursos","l":"CursCompeticio"},{"p":"cursos","l":"CursIndividual"}];updateSearchResults();
